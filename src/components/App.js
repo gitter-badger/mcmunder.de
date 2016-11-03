@@ -8,7 +8,6 @@ class App extends Component {
       <div className='App'>
         <img src={avatar} alt='logo' />
         <h2>Welcome to mcmunder.de</h2>
-
       </div>
     )
   }
