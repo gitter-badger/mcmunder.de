@@ -5,6 +5,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Table of Contents
 
+[![Join the chat at https://gitter.im/mcmunder/mcmunder.de](https://badges.gitter.im/mcmunder/mcmunder.de.svg)](https://gitter.im/mcmunder/mcmunder.de?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
 - [Folder Structure](#folder-structure)
